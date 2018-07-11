@@ -236,11 +236,11 @@
           "_params": {
             "token": "3645297799.727bfe1.654623f8c0f84d81b2e8998c9da82593",
             "showTitle": true,
-            "layoutGridRadio": true,
+            "layoutGridRadio": false,
             "imagesPerRowGrid": 4,
             "rows": 2,
             "showMoreButton": true,
-            "layoutSliderRadio": false,
+            "layoutSliderRadio": true,
             "imagesPerRowSlider": 4,
             "spacing": 5,
             "fullWidth": false,
