@@ -26,7 +26,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 16,
+    "uniqCompNum": 20,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -264,6 +264,98 @@
           ],
           "_name": "instagram-feed-block",
           "_anchor": "instagram-feed-block-f"
+        },
+        {
+          "_styles": {
+            ".plan-wrap.default .plan-title": {
+              "background": "#6ca4cf"
+            },
+            ".plan-wrap.favorite .plan-title": {
+              "background": "#62cab1"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "default",
+            "secondType": "favorite",
+            "thirdType": "default",
+            "fourthType": "default",
+            "defaultColor": "#6ca4cf",
+            "favoriteColor": "#62cab1",
+            "rows": 4,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Пакетные тарифные планы",
+          "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla maxime aspernatur inventore, magnam expedita sequi cum, eius debitis nihil. Aspernatur, incidunt distinctio odio sint, quos non magni neque vel, debitis tenetur deserunt ea cum harum molestias vitae. Veritatis praesentium placeat soluta impedit, distinctio aliquid, officiis labore, facilis eius quia, repudiandae!",
+          "title1": "Бизнес старт",
+          "title2": "Business",
+          "title3": "Premium",
+          "title4": "Ultimate",
+          "currency": "руб",
+          "text111": "<span class=\"price\">13500</span>",
+          "text112": "<br>per Month",
+          "text12": "Ведение страницы – 1 пост в день",
+          "text13": "Таргетированная реклама – лента или сторис",
+          "text14": "Массфолловинг и масслайкинг\\Размещение в пабликах или у блоггеров<br>",
+          "text15": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text16": "Nesciunt! ipsum dolor.",
+          "text17": "Loipsa. consectetur.",
+          "text18": "Lorensectetur, omnis.",
+          "text19": "Lorem ipsa, nobis.",
+          "text211": "<span class=\"price\">29</span>",
+          "text212": "<br>per Month",
+          "text22": "16GB Storage",
+          "text23": "10 Users",
+          "text24": "15 GB bandwidth",
+          "text25": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text26": "Nesciunt! ipsum dolor.",
+          "text27": "Loipsa. consectetur.",
+          "text28": "Lorensectetur, omnis.",
+          "text29": "Lorem ipsa, nobis.",
+          "text311": "<span class=\"price\">39</span>",
+          "text312": "<br>per Month",
+          "text32": "32GB Storage",
+          "text33": "Unlimited Users",
+          "text34": "15 GB bandwidth",
+          "text35": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text36": "Nesciunt! ipsum dolor.",
+          "text37": "Loipsa. consectetur.",
+          "text38": "Lorensectetur, omnis.",
+          "text39": "Lorem ipsa, nobis.",
+          "text411": "<span class=\"price\">49</span>",
+          "text412": "<br>per Month",
+          "text42": "8GB Storage",
+          "text43": "4 Users",
+          "text44": "15 GB bandwidth",
+          "text45": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text46": "Nesciunt! ipsum dolor.",
+          "text47": "Loipsa. consectetur.",
+          "text48": "Lorensectetur, omnis.",
+          "text49": "Lorem ipsa, nobis.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-primary-outline\">Buy now!</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-black-outline\">Buy now!</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-warning-outline\">Buy now!</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-danger-outline\">Buy now!</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-i"
         }
       ]
     }
