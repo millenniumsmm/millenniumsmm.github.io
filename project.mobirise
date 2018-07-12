@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -117,7 +117,7 @@
           "title": "Почему именно мы?",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "header": "В среде SMM бескрайнее множество исполнителей всех видов и возрастов и, возможно, Вы неоднократно получали подобные предложения. Некоторые из них подразумевают накрутку нецелевой, а порой и того хуже - ботов, именуя это аудиторей и продвижением. &nbsp;Этим они наносят не только репутационный удар Вашему бизнесу, но и подвергают риску санкций со стороны социальных сетей. Мы же нацелены на продажи, работу с целевой и исключительно живой аудиторией, никаких ботов и сомнительных методов. Этим мы выгодно выделяемся от дилетантов и можем гарантировать качество своей работы!",
+          "header": "В среде SMM бескрайнее множество исполнителей всех видов и возрастов и, возможно, Вы неоднократно получали предложения раскрутить свой бизнес. Некоторые из них подразумевают накрутку нецелевой, а порой и того хуже - ботов, именуя это аудиторей и продвижением. &nbsp;Этим они наносят не только репутационный удар Вашему бизнесу, но и подвергают риску санкций со стороны социальных сетей, бесцельно растрачивая Ваш бюджет. Мы нацелены на продажи, работу с целевой и исключительно живой аудиторией, никаких ботов и сомнительных методов. Этим мы выгодно выделяемся от дилетантов и можем гарантировать качество своей работы!",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont",
@@ -132,7 +132,7 @@
           },
           "title1": "Наглядность!",
           "subtitle1": "Awesome",
-          "text1": "За 2 года на рынке мы собрали для Вас кейсы, которые открыто иллюстрируют эффективность нашей работы!",
+          "text1": "За 2 года на рынке мы собрали для Вас кейсы, которые открыто иллюстрируют эффективность нашей работы!&nbsp;",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -146,7 +146,7 @@
               "color": "#fffffd"
             }
           },
-          "title2": "Гарантия не словами, а делом!",
+          "title2": "Гарантия не словом, а делом!",
           "subtitle2": "Awesome",
           "text2": "Оплата большинства видов услуг у нас спустя 10 дней после начала работы!",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
@@ -164,7 +164,7 @@
           },
           "title3": "Своя сеть городских сообществ!",
           "subtitle3": "Awesome",
-          "text3": "Часто люди задаются вопросом почему те, кто умеет что-то продвигать - не продвигает что-то свое? Мы - продвигаем! Помимо страниц клиентов мы так же ведем свою собственную сеть городских сообществ с общей аудиторией свыше 500.000 человек и концертный бренд! Мы делаем свой бизнес и знаем, как прокачать Ваш!",
+          "text3": "Часто люди задаются вопросом почему те, кто умеет что-то продвигать - не продвигает что-то свое? Мы - продвигаем! Помимо страниц клиентов мы так же ведем свою собственную сеть городских сообществ с общей аудиторией свыше 500.000 человек и личный концертный бренд! Мы делаем свой бизнес и знаем, как прокачать Ваш!",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media4": {
             "iconFont": {
@@ -180,7 +180,7 @@
           },
           "title4": "Бесплатная консультация!",
           "subtitle4": "Awesome",
-          "text4": "Каждый наш клиент, как и проект - индивидуален. У всех своя целевая аудитория, ко всем нужен свой, порой самый креативный подход. Мы нацелены на прогресс и долговременное сотрудничество с узким кругом проектов, поэтому всегда очень детально изучаем каждый и готовы составить список рекомендаций абсолютно бесплатно!",
+          "text4": "Каждый наш клиент, как и проект - индивидуален. У всех своя целевая аудитория, ко всем нужен свой, порой самый креативный, подход. Мы нацелены на прогресс и долговременное сотрудничество с узким кругом проектов, поэтому всегда очень детально изучаем каждый и готовы составить список рекомендаций абсолютно бесплатно!",
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media5": {
             "iconFont": {
@@ -287,6 +287,42 @@
                 "title": ""
               },
               {
+                "tags": "Таргетинг",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/wbt17z0xdmu-951x374.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wbt17z0xdmu-951x374-800x315.jpg",
+                "caption": "Концерт исполнителя ЗОМБ<br>",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Таргетинг",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gorod-1280x579.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gorod-1280x579-800x362.jpg",
+                "caption": "Продвижение городской группы",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Таргетинг",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ekskurs-630x634.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ekskurs-630x634-630x634.jpg",
+                "caption": "Экскурсии по тайланду",
+                "active": true,
+                "alt": "",
+                "title": ""
+              },
+              {
                 "tags": "Дизайн",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -318,7 +354,7 @@
                 "image": "@PROJECT_PATH@/assets/images/3-540x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3-540x960-540x960.jpg",
                 "caption": "Мастер ресниц на дому<br>",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
@@ -502,8 +538,8 @@
           },
           "text1": "+7-953-399-74-56",
           "text2": "+7-905-922-51-00",
-          "title1": "Eindhoven, 5657 DB, Netherlands",
-          "title2": "350 5th Ave, New York, NY 10118",
+          "title1": "Руководитель",
+          "title2": "По вопросам заказов",
           "title3": "Нужна помощь?",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+7-953-399-74-56\" data-toolbar=\"-mbrBtnMove\">Позвони!</a>",
           "_tags": [
@@ -514,27 +550,16 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showTitle": true,
-            "showText": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
           },
-          "text": "Follow us",
-          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, ea!",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Мы вконтакте</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Мы в инстаграме</a>",
           "_tags": [
             "Тема"
           ],
-          "_name": "follow1",
-          "_anchor": "follow1-12"
+          "_name": "buttons1",
+          "_anchor": "buttons1-13"
         }
       ]
     }
