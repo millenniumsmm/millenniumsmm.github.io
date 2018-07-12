@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 44,
+    "uniqCompNum": 45,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/pjunz-ac-ve-128x128.png",
@@ -128,7 +128,7 @@
               "name": "briefcase",
               "family": "mobirise-icons-bold",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 40,
               "color": "#fffffd"
             }
@@ -144,7 +144,7 @@
               "name": "rocket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 40,
               "color": "#fffffd"
             }
@@ -160,7 +160,7 @@
               "name": "target",
               "family": "mobirise-icons-bold",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 40,
               "color": "#fff"
             }
@@ -176,7 +176,7 @@
               "name": "paper-plane",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 40,
               "color": "#fff"
             }
