@@ -534,6 +534,9 @@ a:hover {
 #header5-0 .mbr-table-cell {
   vertical-align: middle;
 }
+#header5-0 .heading-title {
+  color: #fffffd;
+}
 #features3-9 .mbr-iconfont {
   background: #5aac98;
   border-color: #5aac98;
@@ -549,4 +552,10 @@ a:hover {
   text-align: left;
   font-size: 20px;
   color: #616161;
+}
+#pricing-table2-x .plan-wrap.default .plan-title {
+  background: #6ca4cf;
+}
+#pricing-table2-x .plan-wrap.favorite .plan-title {
+  background: #62cab1;
 }

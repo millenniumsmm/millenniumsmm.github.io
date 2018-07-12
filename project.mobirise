@@ -20,13 +20,14 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#1e7c3a"
+        "#1e7c3a",
+        "#ffffff"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 24,
+    "uniqCompNum": 34,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -50,6 +51,9 @@
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "color": "#fffffd"
             }
           },
           "_params": {
@@ -234,6 +238,161 @@
           }
         },
         {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "0",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "#fff",
+            "showText": true,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Таргетинг",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/vo9r-g9fa7c-846x240.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vo9r-g9fa7c-846x240-800x227.jpg",
+                "caption": "Концерт Myiagi",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Таргетинг",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-1366x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1366x427-800x250.jpg",
+                "caption": "RedApple Иркутск",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Таргетинг",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/vlebhtjgxji-930x556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vlebhtjgxji-930x556-800x478.jpg",
+                "caption": "Магазин вегетерианских продуктов<br>",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Дизайн",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/a4qnqwqlytu-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a4qnqwqlytu-1280x853-800x533.jpg",
+                "caption": "Дизайн шапки для тату-студии<br><br>",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Дизайн",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/qkjkghgwnb0-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/qkjkghgwnb0-1280x853-800x533.jpg",
+                "caption": "Дизайн шапки для магазина мебели<br><br>",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Отзывы",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/3-540x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-540x960-540x960.jpg",
+                "caption": "Мастер ресниц на дому<br>",
+                "active": true,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Отзывы",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/4-540x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-540x960-540x960.jpg",
+                "caption": "Авторская мастерская мебели из дерева",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Отзывы",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2-540x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-540x960-540x960.jpg",
+                "caption": "Магазин техники Apple в Омске",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Отзывы",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/1-467x513.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-467x513-467x513.jpg",
+                "caption": "Школа английского языка",
+                "active": false,
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "Все",
+          "_name": "gallery3",
+          "_anchor": "gallery3-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9
+          },
+          "text": "+7-953-399-74-56",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"tel:+79533997456\" data-toolbar=\"-mbrBtnMove\">Позвони нам</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://www.instagram.com/millennium_adv/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://vk.com/smm_millennium\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a>   ",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "share2",
+          "_anchor": "share2-t"
+        },
+        {
           "_params": {
             "token": "3645297799.727bfe1.654623f8c0f84d81b2e8998c9da82593",
             "showTitle": true,
@@ -264,7 +423,99 @@
             "Расширения"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-n"
+          "_anchor": "instagram-feed-block-v"
+        },
+        {
+          "_styles": {
+            ".plan-wrap.default .plan-title": {
+              "background": "#6ca4cf"
+            },
+            ".plan-wrap.favorite .plan-title": {
+              "background": "#62cab1"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "default",
+            "secondType": "favorite",
+            "thirdType": "default",
+            "fourthType": "default",
+            "defaultColor": "#6ca4cf",
+            "favoriteColor": "#62cab1",
+            "rows": 4,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Пакетные предложения",
+          "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla maxime aspernatur inventore, magnam expedita sequi cum, eius debitis nihil. Aspernatur, incidunt distinctio odio sint, quos non magni neque vel, debitis tenetur deserunt ea cum harum molestias vitae. Veritatis praesentium placeat soluta impedit, distinctio aliquid, officiis labore, facilis eius quia, repudiandae!",
+          "title1": "Buisness start",
+          "title2": "Business optimal",
+          "title3": "Premium",
+          "title4": "Ultimate",
+          "currency": "$",
+          "text111": "<span class=\"price\">19</span>",
+          "text112": "<br>per Month",
+          "text12": "8GB Storage",
+          "text13": "4 Users",
+          "text14": "15 GB bandwidth",
+          "text15": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text16": "Nesciunt! ipsum dolor.",
+          "text17": "Loipsa. consectetur.",
+          "text18": "Lorensectetur, omnis.",
+          "text19": "Lorem ipsa, nobis.",
+          "text211": "<span class=\"price\">29</span>",
+          "text212": "<br>per Month",
+          "text22": "16GB Storage",
+          "text23": "10 Users",
+          "text24": "15 GB bandwidth",
+          "text25": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text26": "Nesciunt! ipsum dolor.",
+          "text27": "Loipsa. consectetur.",
+          "text28": "Lorensectetur, omnis.",
+          "text29": "Lorem ipsa, nobis.",
+          "text311": "<span class=\"price\">39</span>",
+          "text312": "<br>per Month",
+          "text32": "32GB Storage",
+          "text33": "Unlimited Users",
+          "text34": "15 GB bandwidth",
+          "text35": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text36": "Nesciunt! ipsum dolor.",
+          "text37": "Loipsa. consectetur.",
+          "text38": "Lorensectetur, omnis.",
+          "text39": "Lorem ipsa, nobis.",
+          "text411": "<span class=\"price\">49</span>",
+          "text412": "<br>per Month",
+          "text42": "8GB Storage",
+          "text43": "4 Users",
+          "text44": "15 GB bandwidth",
+          "text45": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text46": "Nesciunt! ipsum dolor.",
+          "text47": "Loipsa. consectetur.",
+          "text48": "Lorensectetur, omnis.",
+          "text49": "Lorem ipsa, nobis.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-primary-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Заказать!</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-black-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Заказать!</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-warning-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Заказать!</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-danger-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Заказать!</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-x"
         }
       ]
     }
