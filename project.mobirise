@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 40,
+    "uniqCompNum": 44,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -554,12 +554,120 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Мы вконтакте</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Мы в инстаграме</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Мы вконтакте</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Мы в инстаграме</a>",
           "_tags": [
             "Тема"
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-13"
+        },
+        {
+          "_styles": {
+            ".count": {
+              "color": "#74a3c7"
+            }
+          },
+          "_params": {
+            "countersColor": "#74a3c7",
+            "showTitles": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/counters/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#f7f7f7",
+            "containerColor2": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.75
+          },
+          "title1": "года на рынке",
+          "title2": "Успешно-реализованных проектов",
+          "title3": "Общего бюджета",
+          "title4": "Videos",
+          "subtitle1": "subtitle",
+          "subtitle2": "subtitle",
+          "subtitle3": "subtitle",
+          "subtitle4": "subtitle",
+          "number1": "2",
+          "number2": "107",
+          "number3": "1.307.950₽",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "counters1",
+          "_anchor": "counters1-15"
+        },
+        {
+          "_params": {
+            "token": "3645297799.727bfe1.654623f8c0f84d81b2e8998c9da82593",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Расширения"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-16"
+        },
+        {
+          "_params": {
+            "token": "3645297799.727bfe1.654623f8c0f84d81b2e8998c9da82593",
+            "showTitle": false,
+            "layoutGridRadio": false,
+            "imagesPerRowGrid": "7",
+            "rows": "1",
+            "showMoreButton": true,
+            "layoutSliderRadio": true,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Расширения"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-17"
         }
       ]
     }
