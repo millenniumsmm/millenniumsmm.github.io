@@ -502,7 +502,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Andrey Kauc (c) 2018.",
           "_tags": [
             "Тема"
           ],
@@ -522,12 +522,12 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
           },
-          "text1": "+1 234 576-89-00",
-          "text2": "+9 876 543-21-00",
+          "text1": "+7-953-399-74-56",
+          "text2": "+7-905-922-51-00",
           "title1": "Eindhoven, 5657 DB, Netherlands",
           "title2": "350 5th Ave, New York, NY 10118",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">Call us</a>",
+          "title3": "Нужна помощь?",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Позвони!</a>",
           "_tags": [
             "Тема"
           ],
