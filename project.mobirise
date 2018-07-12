@@ -6,8 +6,8 @@
       "name": "direct-m",
       "title": "DirectM на русском",
       "styling": {
-        "primaryColor": "#5aac98",
-        "secondaryColor": "#667bb1",
+        "primaryColor": "#667bb1",
+        "secondaryColor": "#2b4484",
         "successColor": "#1E7C3A",
         "infoColor": "#2d2d2d",
         "warningColor": "#FFD785",
@@ -554,7 +554,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Мы вконтакте</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Мы в инстаграме</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Мы вконтакте</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Мы в инстаграме</a>",
           "_tags": [
             "Тема"
           ],
