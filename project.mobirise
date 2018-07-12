@@ -371,28 +371,6 @@
           "_anchor": "gallery3-p"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.9
-          },
-          "text": "+7-953-399-74-56",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"tel:+79533997456\" data-toolbar=\"-mbrBtnMove\">Позвони нам</a>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://www.instagram.com/millennium_adv/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://vk.com/smm_millennium\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a>   ",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "share2",
-          "_anchor": "share2-t"
-        },
-        {
           "_styles": {
             ".plan-wrap.default .plan-title": {
               "background": "#6ca4cf"
@@ -415,7 +393,7 @@
             "paddingBottom": 3,
             "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -489,7 +467,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
