@@ -1,38 +1,30 @@
 {
   "settings": {
-    "name": "Millennium SMM",
+    "name": "Site-07-27_1042",
     "currentPage": "index.html",
     "theme": {
       "name": "direct-m",
       "title": "DirectM на русском",
       "styling": {
-        "primaryColor": "#667bb1",
-        "secondaryColor": "#2b4484",
+        "primaryColor": "#5aac98",
+        "secondaryColor": "#A25DAE",
         "successColor": "#1E7C3A",
-        "infoColor": "#2d2d2d",
+        "infoColor": "#74a3c7",
         "warningColor": "#FFD785",
         "dangerColor": "#FF9685",
-        "titleFont": "Oswald",
-        "subtitleFont": "Montserrat",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Libre Franklin",
         "textFont": "Libre Franklin",
-        "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
-      },
-      "additionalSetColors": [
-        "#1e7c3a",
-        "#ffffff"
-      ]
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 45,
-    "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/pjunz-ac-ve-128x128.png",
-    "noImageResize": "",
-    "seo-meta": ""
+    "uniqCompNum": 4,
+    "versionPublish": "4.8.1"
   },
   "pages": {
     "index.html": {
@@ -48,366 +40,102 @@
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
               "color": "#ffffff"
             },
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
             },
-            ".heading-title": {
-              "color": "#fffffd"
+            ".btn": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "contentAlign": "center",
+            "contentAlign": "left",
+            "showArrow": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#084a6e",
-            "containerColor2": "#24a383",
+            "containerColor1": "#631c70",
+            "containerColor2": "#3ca8c7",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": 0.5
+            "overlayColor": "#616161",
+            "overlayOpacity": 0.8
           },
           "title": "MILLENNIUM SMM",
-          "text": "<b>Клиенты для Вашего бизнеса уже сегодня!</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"assets/files/Predlozhenie_ot_Smm_agentstva__39__39_Millennium_39__39.docx\" data-toolbar=\"-mbrBtnMove\">КОММЕРЧЕСКОЕ ПРЕДЛОЖЕНИЕ</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-0"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "showHeading": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "contentAlign": "center",
-            "columns": 2,
-            "featuresBg": "#f6f7f8",
-            "showFeaturesHeader": true,
-            "showFeaturesImages": true,
-            "iconsBgColor": "@primaryColor",
-            "showFeaturesTitles": true,
-            "showFeaturesTexts": true,
-            "showFeaturesButtons": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fffffd",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fffffd",
-            "overlayOpacity": 0.95
-          },
-          "title": "Почему именно мы?",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "header": "В среде SMM бескрайнее множество исполнителей всех видов и возрастов и, возможно, Вы неоднократно получали предложения раскрутить свой бизнес. Некоторые из них подразумевают накрутку нецелевой, а порой и того хуже - ботов, именуя это аудиторей и продвижением. &nbsp;Этим они наносят не только репутационный удар Вашему бизнесу, но и подвергают риску санкций со стороны социальных сетей, бесцельно растрачивая Ваш бюджет. Мы нацелены на продажи, работу с целевой и исключительно живой аудиторией, никаких ботов и сомнительных методов. Этим мы выгодно выделяемся от дилетантов и можем гарантировать качество своей работы!",
+          "text": "Мы, Smm агентство из города Омска, специализируемся на комплексном развитии бизнеса в Instagram и Vk! Имеем успешные кейсы и отзывы с клиентами от Ростова до Иркутска, также из Германии - работаем и на Английском языке. Экономим бюджет и приводим горячих клиентов за руку!&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vk.com/doc3762776_471160545?hash=730ed584bdb74aa1e6&amp;dl=b2108d966045306fcc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Коммерческое предложение в PDF</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://vk.com/albums-161924447\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Наши наглядные кейсы</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://vk.com/album-161924447_253728216\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Отзывы</a>",
           "media1": {
             "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "mobirise-icons-bold",
               "active": true,
-              "link": "",
+              "class": "mbr-iconfont",
+              "name": "mobirise",
+              "link": "https://mobirise.com",
               "size": 40,
-              "color": "#fffffd"
+              "family": "MobiriseIcons"
             }
           },
-          "title1": "Наглядность!",
+          "title1": "What is Mobirise",
           "subtitle1": "Awesome",
-          "text1": "За 2 года на рынке мы собрали для Вас кейсы, которые открыто иллюстрируют эффективность нашей работы!&nbsp;",
+          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "rocket",
-              "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
               "size": 40,
-              "color": "#fffffd"
+              "family": "MobiriseIcons"
             }
           },
-          "title2": "Гарантия не словом, а делом!",
+          "title2": "What is Mobirise",
           "subtitle2": "Awesome",
-          "text2": "Оплата большинства видов услуг у нас спустя 10 дней после начала работы!",
+          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "target",
-              "family": "mobirise-icons-bold",
               "active": true,
-              "link": "",
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
               "size": 40,
-              "color": "#fff"
+              "family": "MobiriseIcons"
             }
           },
-          "title3": "Своя сеть городских сообществ!",
+          "title3": "What is Mobirise",
           "subtitle3": "Awesome",
-          "text3": "Часто люди задаются вопросом почему те, кто умеет что-то продвигать - не продвигает что-то свое? Мы - продвигаем! Помимо страниц клиентов мы так же ведем свою собственную сеть городских сообществ с общей аудиторией свыше 500.000 человек и личный концертный бренд! Мы делаем свой бизнес и знаем, как прокачать Ваш!",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media4": {
             "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "paper-plane",
-              "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "class": "mbr-iconfont",
+              "name": "phone",
+              "link": "https://mobirise.com",
               "size": 40,
-              "color": "#fff"
+              "family": "MobiriseIcons"
             }
           },
-          "title4": "Бесплатная консультация!",
+          "title4": "What is Mobirise",
           "subtitle4": "Awesome",
-          "text4": "Каждый наш клиент, как и проект - индивидуален. У всех своя целевая аудитория, ко всем нужен свой, порой самый креативный, подход. Мы нацелены на прогресс и долговременное сотрудничество с узким кругом проектов, поэтому всегда очень детально изучаем каждый и готовы составить список рекомендаций абсолютно бесплатно!",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "cash",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title5": "Host Anywhere",
-          "subtitle5": "Awesome",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo error voluptatibus possimus nobis quos minima pariatur aperiam, sunt commodi incidunt nam iusto ipsa distinctio ipsam!",
-          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "unlock",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title6": "Bootstrap 4",
-          "subtitle6": "Awesome",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut officia reiciendis id enim hic harum voluptatem repellat incidunt soluta cum quia facere sed, ea illo.",
-          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Тема"
           ],
-          "_name": "features3",
-          "_anchor": "features3-9",
-          "_styles": {
-            ".mbr-iconfont": {
-              "background": "@primaryColor",
-              "border-color": "@primaryColor"
-            },
-            ".features": {
-              "background": "#f6f7f8"
-            },
-            ".card-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "22px"
-            },
-            ".card-text": {
-              "text-align": "left",
-              "font-size": "20px",
-              "color": "#616161"
-            }
-          }
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "0",
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "filterBgColor": false,
-            "bgColor": "#fff",
-            "showText": true,
-            "filter": true,
-            "images": [
-              {
-                "tags": "Таргетинг",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/vo9r-g9fa7c-846x240.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vo9r-g9fa7c-846x240-800x227.jpg",
-                "caption": "Концерт Myiagi",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Таргетинг",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-1366x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1366x427-800x250.jpg",
-                "caption": "RedApple Иркутск",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Таргетинг",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/vlebhtjgxji-930x556.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vlebhtjgxji-930x556-800x478.jpg",
-                "caption": "Магазин вегетерианских продуктов<br>",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Таргетинг",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/wbt17z0xdmu-951x374.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wbt17z0xdmu-951x374-800x315.jpg",
-                "caption": "Концерт исполнителя ЗОМБ<br>",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Таргетинг",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gorod-1280x579.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gorod-1280x579-800x362.jpg",
-                "caption": "Продвижение городской группы",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Таргетинг",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ekskurs-630x634.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ekskurs-630x634-630x634.jpg",
-                "caption": "Экскурсии по тайланду",
-                "active": true,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Дизайн",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/a4qnqwqlytu-1280x853.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/a4qnqwqlytu-1280x853-800x533.jpg",
-                "caption": "Дизайн шапки для тату-студии<br><br>",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Дизайн",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/qkjkghgwnb0-1280x853.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/qkjkghgwnb0-1280x853-800x533.jpg",
-                "caption": "Дизайн шапки для магазина мебели<br><br>",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Отзывы",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/3-540x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-540x960-540x960.jpg",
-                "caption": "Мастер ресниц на дому<br>",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Отзывы",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/4-540x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-540x960-540x960.jpg",
-                "caption": "Авторская мастерская мебели из дерева",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Отзывы",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2-540x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-540x960-540x960.jpg",
-                "caption": "Магазин техники Apple в Омске",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Отзывы",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/1-467x513.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-467x513-467x513.jpg",
-                "caption": "Школа английского языка",
-                "active": false,
-                "alt": "",
-                "title": ""
-              }
-            ]
-          },
-          "_tags": [
-            "Тема"
-          ],
-          "articleLayout": false,
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
-          "allItem": "Все",
-          "_name": "gallery3",
-          "_anchor": "gallery3-p"
+          "_name": "header2",
+          "_anchor": "header2-1"
         },
         {
           "_styles": {
@@ -446,127 +174,60 @@
           },
           "title": "Пакетные предложения",
           "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla maxime aspernatur inventore, magnam expedita sequi cum, eius debitis nihil. Aspernatur, incidunt distinctio odio sint, quos non magni neque vel, debitis tenetur deserunt ea cum harum molestias vitae. Veritatis praesentium placeat soluta impedit, distinctio aliquid, officiis labore, facilis eius quia, repudiandae!",
-          "title1": "Buisness start",
-          "title2": "Business optimal",
-          "title3": "All inclusive",
-          "title4": "Ultimate",
+          "title1": "Автоматизация",
+          "title2": "Instagram plus",
+          "title3": "ВК под ключ",
+          "title4": "Все включено",
           "currency": "₽",
-          "text111": "<span class=\"price\">13.500</span>",
+          "text111": "<span class=\"price\">11.500</span>",
           "text112": "<br>В месяц<br>",
-          "text12": "Ведение страницы – 1 пост в день",
-          "text13": "Таргетированная реклама – лента или сторис",
-          "text14": "Массфолловинг и масслайкинг\\Размещение в пабликах или у блоггеров",
+          "text12": "Подготовка аккаунта к продвижению",
+          "text13": "Рекомендации по ведению аккаунта",
+          "text14": "Ведение группы (регулярный постинг с авторскими текстами)<br><br><br>Составление уникального контент-плана<br><br><br>Сбор целевой аудитории<br><br><br>Разработка и внедрение классных конкурсов или акций<br><br><br>Тестовая таргетированная реклама Vk (включён минимальный бюджет на\n<br>показ рекламы – 2000 рублей)/Массфолловинг Instagram<br><br><br>Аудит аккаунта и конкурентов<br><br><br>Ответы на сообщения и комментарии от нашего менеджера по работе с\n<br>клиентами<br><br><br>Постоянная онлайн поддержка наших специалистов<br><br><br>Ежемесячный отчёт о проделанной работе<br><br><br><b>В Подарок:</b>&nbsp;Размещение в нашем городском паблике Instagram (все города\n<br>Рф) – 2 поста и 2 сторис в месяц<br>",
           "text15": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "text16": "Nesciunt! ipsum dolor.",
           "text17": "Loipsa. consectetur.",
           "text18": "Lorensectetur, omnis.",
           "text19": "Lorem ipsa, nobis.",
-          "text211": "<span class=\"price\">15.500</span>",
-          "text212": "<br>В месяц<br>",
-          "text22": "Ведение группы – 2 поста в день",
-          "text23": "Таргетированная реклама/Инвайтинг",
-          "text24": "Подбор групп для размещения рекламы",
+          "text211": "17.500",
+          "text212": "<br>В месяц",
+          "text22": "Аудит аккаунта и конкурентов",
+          "text23": "Рекомендации по ведению аккаунта",
+          "text24": "Подготовка аккаунта к продвижению<br><br><br>Составление уникального контент-плана<br><br><br>Ведение страницы (ежедневный уникальный пост по вашей теме, с\n<br>чередованием текстов различной направленности)<br><br><br>Подбор актуальных хештегов и геоточек<br><br><br>Таргетированная реклама – лента или сторис (включён минимальный\n<br>бюджет на показ рекламы – 3500 рублей)<br><br><br>Составление дизайна и текстов объявлений для таргетинга<br><br><br>Отбор ЦА по полу/городу/активности/возрасту/конкурентам/другим соц.\n<br>сетям<br><br><br>Фильтрация базы от коммерческих и \"мертвых\" аккаунтов<br><br><br>Запуск и контроль массфолловинга по отфильтрованным базам Вашей целевой аудитории<br><br><br>Ежемесячный отчет о проделанной работе<br><br><br>Постоянная онлайн поддержка<br><br><b>В подарок:</b> Размещение в нашем городском паблике Instagram (все города\n<br>Рф) – 3 поста и 3 сторис в месяц<br>",
           "text25": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "text26": "Nesciunt! ipsum dolor.",
           "text27": "Loipsa. consectetur.",
           "text28": "Lorensectetur, omnis.",
           "text29": "Lorem ipsa, nobis.",
-          "text311": "<span class=\"price\">26.500</span>",
-          "text312": "&nbsp;<br>В месяц<br>",
-          "text32": "Ведение – 2 поста в день с дублированием",
-          "text33": "Таргетированная реклама",
-          "text34": "Массфолловинг и масслайкинг<br><br>Размещение в пабликах vk/Размещение в пабликах или у блоггеров в\nInstagram<br>",
+          "text311": "<span class=\"price\">19.000</span>",
+          "text312": "<br>В месяц<br>",
+          "text32": "Рекомендации по ведению аккаунта",
+          "text33": "Аудит аккаунта и конкурентов",
+          "text34": "Настройка сообщества<br><br><br>Создание уникального дизайна<br><br><br>Составление уникального контент-плана<br><br><br>Ведение группы (ежедневный уникальный пост с чередованием текстов\n<br>различной направленности)<br><br><br>Разработка конкурсов<br><br><br>Точечный отбор целевой аудитории<br><br><br>Составление дизайна и текстов объявлений для таргетинга<br><br><br>Запуск таргетированной рекламы (включён минимальный бюджет на показ\n<br>рекламы – 3500 рублей)/ Инвайтинг<br><br><br>Ежемесячный отчет о проделанной работе<br><br><br>Постоянная онлайн поддержка<br>",
           "text35": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "text36": "Nesciunt! ipsum dolor.",
           "text37": "Loipsa. consectetur.",
           "text38": "Lorensectetur, omnis.",
           "text39": "Lorem ipsa, nobis.",
-          "text411": "0",
-          "text412": "<br>В месяц<br>",
-          "text42": "В разработке",
-          "text43": "",
-          "text44": "",
+          "text411": "<span class=\"price\">36.000</span>",
+          "text412": "В месяц",
+          "text42": "Аудит аккаунта и конкурентов",
+          "text43": "Рекомендации по ведению аккаунтов",
+          "text44": "Подготовка аккаунтов к продвижению<br><br><br>Разработка уникальной стратегии<br><br><br>Составление уникального контент-плана<br><br><br>Разработка уникальных конкурсов для проведения<br><br><br>Ведение страницы (2 уникальных поста в день с дублированием в две\n<br>социальные сети)<br><br><br>Отбор ЦА по полу/городу/активности/возрасту/конкурентам/другим соц.\n<br>сетям<br><br><br>Подбор актуальных хештегов<br><br><br>Фильтрация базы от коммерческих и \"мертвых\" аккаунтов<br><br><br>Составление дизайна и текстов объявлений для таргетинга<br><br><br>Таргетированная реклама в обоих социальных сетях (включён бюджет на\n<br>показ рекламы – 10000 рублей на две социальные сети)<br><br><br>Работа с клиентами (консультирование, продажи, обработка негатива)<br><br><br>Работа с лояльностью бренда<br><br><br>Запуск и контроль массфолловинга по отфильтрованным базам Вашей\n<br>целевой аудитории (instagram)<br><br><br>Еженедельная отчетность о проделанной работе<br><br><b>+ 2 ПОДАРКА</b><br><br>Разработка сайта-визитки<br><br>Размещение в нашем городском паблике Instagram (все города\n<br>Рф) – 4 поста и 4 сторис в месяц<br>",
           "text45": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "text46": "Nesciunt! ipsum dolor.",
           "text47": "Loipsa. consectetur.",
           "text48": "Lorensectetur, omnis.",
           "text49": "Lorem ipsa, nobis.",
-          "button1": "<a data-app-btn=\"true\" href=\"tel:+79533997456\" class=\"btn btn-lg btn-primary-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Заказать!</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"tel:+79533997456\" class=\"btn btn-lg btn-black-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Заказать!</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"tel:+79533997456\" class=\"btn btn-lg btn-warning-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Заказать!</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"tel:+79533997456\" class=\"btn btn-lg btn-danger-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Заказать!</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://vk.com/smm_millennium\" class=\"btn btn-lg btn-primary-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Заказать сейчас!</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://vk.com/smm_millennium\" class=\"btn btn-lg btn-black-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">Заказать сейчас!</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://vk.com/smm_millennium\" class=\"btn btn-lg btn-warning-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">Заказать сейчас!</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://vk.com/smm_millennium\" class=\"btn btn-lg btn-danger-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">Заказать сейчас!</a>",
           "_tags": [
             "Тема"
           ],
           "_name": "pricing-table2",
-          "_anchor": "pricing-table2-x"
-        },
-        {
-          "_styles": {
-            ".count": {
-              "color": "#74a3c7"
-            }
-          },
-          "_params": {
-            "countersColor": "#74a3c7",
-            "showTitles": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/counters/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#f7f7f7",
-            "containerColor2": "#f0f0f0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.75
-          },
-          "title1": "года на рынке",
-          "title2": "Успешно-реализованных проектов",
-          "title3": "Израсходовано бюджета",
-          "title4": "Videos",
-          "subtitle1": "subtitle",
-          "subtitle2": "subtitle",
-          "subtitle3": "subtitle",
-          "subtitle4": "subtitle",
-          "number1": "2",
-          "number2": "107",
-          "number3": "1.307.950₽",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "counters1",
-          "_anchor": "counters1-15"
-        },
-        {
-          "_styles": {
-            "p": {
-              "color": "#000"
-            }
-          },
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Andrey Kauc prod. (c) 2018.",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "footer4",
-          "_anchor": "footer4-z"
+          "_anchor": "pricing-table2-0"
         },
         {
           "_params": {
@@ -581,30 +242,14 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
           },
-          "text1": "+7-953-399-74-56",
-          "text2": "+7-905-922-51-00",
-          "title1": "Руководитель",
-          "title2": "По вопросам заказов",
-          "title3": "Нужна помощь?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+7-953-399-74-56\" data-toolbar=\"-mbrBtnMove\">Позвони!</a>",
+          "text": "+7-953-399-74-56",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"tel:+79533997456\" data-toolbar=\"-mbrBtnMove\">Позвони нам!</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"fa fa-vk mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    ",
           "_tags": [
             "Тема"
           ],
-          "_name": "footer3",
-          "_anchor": "footer3-10"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vk.com/smm_millennium\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Мы вконтакте</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.instagram.com/millennium_adv/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Мы в инстаграме</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-13"
+          "_name": "share2",
+          "_anchor": "share2-3"
         }
       ]
     }
