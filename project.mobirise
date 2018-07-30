@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-27_1042",
+    "name": "MillenniumSMM",
     "currentPage": "index.html",
     "theme": {
       "name": "direct-m",
@@ -23,6 +23,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/r0fxsnpadyg-128x128.png",
+    "noImageResize": "",
+    "seo-meta": "",
+    "globalfooter": "",
     "uniqCompNum": 4,
     "versionPublish": "4.8.1"
   },
@@ -74,7 +78,7 @@
           },
           "title": "MILLENNIUM SMM",
           "text": "Мы, Smm агентство из города Омска, специализируемся на комплексном развитии бизнеса в Instagram и Vk! Имеем успешные кейсы и отзывы с клиентами от Ростова до Иркутска, также из Германии - работаем и на Английском языке. Экономим бюджет и приводим горячих клиентов за руку! Оплата большинства видов услуг спустя 10 дней после начала работы!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vk.com/doc3762776_471160545?hash=730ed584bdb74aa1e6&amp;dl=b2108d966045306fcc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Коммерческое предложение в PDF</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://vk.com/albums-161924447\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Наши наглядные кейсы</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://vk.com/album-161924447_253728216\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Отзывы</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vk.com/doc3762776_471160545?hash=730ed584bdb74aa1e6&amp;dl=b2108d966045306fcc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Коммерческое предложение в PDF</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://vk.com/topic-161924447_41425247\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Наши наглядные кейсы</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://vk.com/topic-161924447_41425263\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Отзывы</a>",
           "media1": {
             "iconFont": {
               "active": true,
@@ -244,7 +248,7 @@
           },
           "text": "+7-953-399-74-56",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"tel:+79533997456\" data-toolbar=\"-mbrBtnMove\">Позвони нам!</a>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"index.html#header2-1\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"#top\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"fa fa-vk mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"index.html#header2-1\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"mailto:Millenniumsmm@gmail.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://vk.com/smm_millennium\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"fa fa-vk mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/smm_millennium/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    ",
           "_tags": [
             "Тема"
           ],
