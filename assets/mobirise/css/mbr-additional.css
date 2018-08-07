@@ -532,6 +532,9 @@ a:hover {
   font-size: 18px;
   font-family: 'Montserrat', sans-serif;
 }
+#header2-1 .heading-text {
+  font-size: 24px;
+}
 #pricing-table2-0 .plan-wrap.default .plan-title {
   background: #6ca4cf;
 }
