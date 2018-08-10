@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
+
 
 
 
@@ -540,4 +542,22 @@ a:hover {
 }
 #pricing-table2-0 .plan-wrap.favorite .plan-title {
   background: #62cab1;
+}
+#form3-5 .card {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+#form3-5 .card-img a {
+  color: #616161;
+  border-color: #616161;
+  border-width: 2px;
+  line-height: 72px;
+}
+#form3-5 .heading {
+  background: #447eaa;
+}
+#form3-5 .btn {
+  font-size: 18px;
+  font-family: 'Oswald', sans-serif;
 }
