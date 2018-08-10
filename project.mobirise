@@ -18,7 +18,10 @@
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": [
+        "#3ca8c7"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
@@ -27,7 +30,7 @@
     "noImageResize": "",
     "seo-meta": "",
     "globalfooter": "",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -70,7 +73,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#631c70",
+            "containerColor1": "#ff9685",
             "containerColor2": "#3ca8c7",
             "bgVideoRadio": false,
             "bgVideo": {
