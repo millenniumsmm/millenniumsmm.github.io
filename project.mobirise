@@ -20,7 +20,11 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#3ca8c7"
+        "#3ca8c7",
+        "#562282",
+        "#d1361d",
+        "#6b13b7",
+        "#ed4903"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -30,7 +34,7 @@
     "noImageResize": "",
     "seo-meta": "",
     "globalfooter": "",
-    "uniqCompNum": 7,
+    "uniqCompNum": 11,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -73,8 +77,8 @@
             "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#ff9685",
-            "containerColor2": "#3ca8c7",
+            "containerColor1": "#ed4903",
+            "containerColor2": "#6b13b7",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -84,7 +88,7 @@
             "overlayOpacity": 0.8
           },
           "title": "MILLENNIUM SMM",
-          "text": "SMM-агентство \"Millennium\" специализируется на комплексном развитии бизнеса в Instagram и ВКонтакте! <br><br>За несколько лет существования агентство успело положительно зарекомендовать себя на рынке интернет-маркетинга и уже имеет успешные кейсы с заказчиками как из России, так и из-за рубежа. \n<br>\n<br>Здесь Вы можете ознакомиться с актуальными предложениями для Вашего бизнеса и выбрать наиболее оптимальный пакет услуг. \n<br>\n<br>Развивайте бизнес вместе с нами!",
+          "text": "SMM-агентство \"Millennium\" специализируется на комплексном развитии бизнеса в Instagram и ВКонтакте! <br><br>За несколько лет существования мы успели положительно зарекомендовать себя на рынке интернет-маркетинга и уже имеет успешные кейсы с заказчиками как из России, так и из-за рубежа. \n<br>\n<br>Здесь Вы можете ознакомиться с актуальными предложениями для Вашего бизнеса и выбрать наиболее оптимальный пакет услуг. \n<br>\n<br>Развивайте бизнес вместе с нами!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vk.com/doc3762776_471160545?hash=730ed584bdb74aa1e6&amp;dl=b2108d966045306fcc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Коммерческое предложение в PDF</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://vk.com/topic-161924447_41425247\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Наши наглядные кейсы</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://vk.com/topic-161924447_41425263\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Отзывы</a>",
           "media1": {
             "iconFont": {
